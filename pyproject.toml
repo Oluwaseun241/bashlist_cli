@@ -17,4 +17,4 @@ dynamic = ["version", "description"]
 Home = "https://github.com/Oluwaseun241/bashlist_cli"
 
 [project.scripts]
-bashlist_cli = "bashlist.__main__:main"
+bashlist = "bashlist.__main__:main"
