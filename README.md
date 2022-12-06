@@ -1,4 +1,4 @@
-# Bashlist :memo::pencil:
+# Bashlist :memo:
 
 ### Your Terminal To-Do manager
 
