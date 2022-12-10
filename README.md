@@ -4,7 +4,7 @@
 
 Setup your To-Do task directly from your terminal
 
-- Documentation [website](https://pypi.org/project/bashlist/)
+- PyPI Documentation [website](https://pypi.org/project/bashlist/)
 
 ### Requirements
 
