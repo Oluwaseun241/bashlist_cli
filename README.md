@@ -14,7 +14,7 @@ Setup your To-Do task directly from your terminal
 
 # Installation
 
-To install **Bashlist**, run:
+To install **Bashlist** run:
 
 
 ```
