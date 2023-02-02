@@ -43,7 +43,7 @@ def get_todoer() -> bashlist.Todoer:
         db_path = database.get_database_path(config.CONFIG_FILE_PATH)
     else:
         typer.secho(
-            'Config file not found. Please, run "rptodo init"',
+            'Config file not found. Please, run "bashlist init"',
             fg=typer.colors.RED,
         )
         raise typer.Exit(1)
@@ -51,7 +51,7 @@ def get_todoer() -> bashlist.Todoer:
         return bashlist.Todoer(db_path)
     else:
         typer.secho(
-            'Database not found. Please, run "rptodo init"',
+            'Database not found. Please, run "bashlist init"',
             fg=typer.colors.RED,
         )
         raise typer.Exit(1)
