@@ -7,14 +7,5 @@ name = "bashlist"
 authors = [{name = "Oluwaseun", email = "tanimolaoluwaseun70@gmail.com"}]
 readme = "README.md"
 license = {file = "LICENSE"}
-classifiers = [
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python :: 3",
-]
+classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-
-[project.urls]
-Home = "https://github.com/Oluwaseun241/bashlist_cli"
-
-[project.scripts]
-bashlist_cli = "bashlist.__main__:main"
