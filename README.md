@@ -4,7 +4,7 @@
 
 Setup your To-Do task directly from your terminal
 
-- Documentation [website](https://pypi.org/project/bashlist/)
+- PyPI Documentation [website](https://pypi.org/project/bashlist/)
 
 ### Requirements
 
@@ -14,7 +14,7 @@ Setup your To-Do task directly from your terminal
 
 # Installation
 
-To install **Bashlist**, run:
+To install **Bashlist** run:
 
 
 ```
